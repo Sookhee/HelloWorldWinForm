@@ -19,7 +19,7 @@ namespace HelloWorldWinForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("반갑습니다!", "C# WinForm 첫 프로젝트");
         }
     }
 }
